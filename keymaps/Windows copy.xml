@@ -1,0 +1,5 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ZoomCurrentWindow">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+</keymap>
